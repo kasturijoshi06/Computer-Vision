@@ -6,5 +6,7 @@ This repository contains basic topics covered in Computer vision course
 - Quantization
 - SIFT
 - Face detection
+- Snake (active contour)
+- Hough transform
 - Image enhancement
 - B-spline 

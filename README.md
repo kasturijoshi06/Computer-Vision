@@ -1,5 +1,5 @@
 # Computer-Vision
-This repository contains basic topics covered in Computer vision course
+This repository contains the following implementations of the topics covered in Computer vision course
 - Morphological operations
 - Histogram equalization
 - Gaussian and median filtering
